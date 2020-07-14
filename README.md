@@ -1,5 +1,3 @@
-### Hi there 
-
 # Hello! 👋
 *Working with Scott? Here's what to expect!*
 
