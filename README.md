@@ -3,7 +3,10 @@
 ## This is my Engineering Leader README
 *Working with Scott? Here's what to expect!*
 
-Caveat: I'm pretty aware of my faults - this document isn't my attempt at excusing them. This document also [isn't an attempt to build trust](https://medium.com/@skamille/i-hate-manager-readmes-20a0dd9a70d0). That happens as we work together. This also isn't everything - this is just a start to get going.
+Caveats:
+* I'm pretty aware of my faults - this document isn't my attempt at excusing them.
+* This document also [isn't an attempt to build trust](https://medium.com/@skamille/i-hate-manager-readmes-20a0dd9a70d0). That happens as we work together.
+* This also isn't everything - this is just a start to get going.
 
 ## Who _are_ you?
 * [Small-town](https://cityofpage.org/) raised, lived-all-over, Millennial-leaning Gen-Xer who loves [music](https://twitter.com/search?q=%40tapH20guru%20mixtape&src=typed_query), cooking, dad jokes, and technology.
