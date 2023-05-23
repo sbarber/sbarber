@@ -19,10 +19,10 @@ Caveats:
 * [Dig yourself (and others) a pit of success](https://blog.codinghorror.com/falling-into-the-pit-of-success/)
 * Continuous improvement - Little by little let's make things better
 * Process is good - When it's just enough to ease the pain and no more
-* When it comes to human interaction boring is bad - Emojis and gifs are an awesome way to communicate. Please give cool names to projects.
+* When it comes to human interaction, boring is bad. Emojis, gifs and cool project names are it.
 * When it comes to technology [boring](https://mcfunley.com/choose-boring-technology) [is](https://boringrails.com/) [good](http://boringtechnology.club/).
 * We are [not](https://blog.codinghorror.com/can-your-team-pass-the-elevator-test/) paid to write code. We are paid to [solve problems](https://levelup.gitconnected.com/the-problem-you-solve-is-more-important-than-the-code-you-write-d0e5493132c6) and [sometimes](https://blog.codinghorror.com/the-best-code-is-no-code-at-all/) that means coding.
-* Data - Let's establish some OKRs and start collecting data. Trends! Cool graphs! How do we measure what we care about?
+* Data - Let's establish some OKRs and start collecting data. Keep data in front of you. How do we measure what we care about?
 * [If it matters enough to be careful, it matters enough to build a system around it.](https://seths.blog/2018/11/quality-and-effort/)
 * Don't be a Hero - [Problem Prevention > Problem Solving](https://twitter.com/shreyas/status/1218724150312751104) - Planning and [Pre-Mortems](https://hbr.org/2007/09/performing-a-project-premortem) rock!
 * Be Assertive - Not passive aggressive or plain old aggressive. Tact and open communication go a long way.
