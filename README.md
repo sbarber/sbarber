@@ -13,7 +13,7 @@ Caveats:
 * I'm pretty much [down the middle blue/green](https://www.wearebowline.com/blog/8-personality-types-a-deeper-dive-into-insights-discovery/). (Supporting or Observing Coordinator)
 * I'm [ISTJ](https://www.truity.com/personality-type/ISTJ)-ish.
 
-## Guiding Principals, Things I Value and Fun Trinkets
+## Guiding Principals, Things I Value
 * Pragmatist - What works for our team? People > Process. True [Agile](https://agilemanifesto.org/)!
 * Overcommunicate - [No going dark](https://blog.codinghorror.com/dont-go-dark/) - It's ok to say things more than once - Written communication helps solidify your thoughts (see: https://basecamp.com/guides/how-we-communicate #6 and #7).
 * [Dig yourself (and others) a pit of success](https://blog.codinghorror.com/falling-into-the-pit-of-success/)
