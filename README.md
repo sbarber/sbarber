@@ -8,7 +8,7 @@ Caveats:
 * This document also [isn't an attempt to build trust](https://medium.com/@skamille/i-hate-manager-readmes-20a0dd9a70d0). That happens as we work together.
 
 ## Who _are_ you?
-* [Small-town](https://cityofpage.org/) raised, lived-all-over, Millennial-leaning Gen-Xer who loves [music](https://twitter.com/search?q=%40tapH20guru%20mixtape&src=typed_query), cooking, dad jokes, and technology.
+* [Small-town](https://cityofpage.org/) raised, lived-all-over, Millennial-leaning Gen-Xer who loves [music](https://x.com/search?lang=en&q=(%23mixtape)%20(from%3AtapH20guru)&src=typed_query), cooking, dad jokes, and technology.
 * I'm pretty much [down the middle blue/green](https://www.wearebowline.com/blog/8-personality-types-a-deeper-dive-into-insights-discovery/). (Supporting or Observing Coordinator)
 * I'm [ISTJ](https://www.truity.com/personality-type/ISTJ)-ish.
 
