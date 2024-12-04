@@ -1,6 +1,6 @@
 # Hello! 👋
 
-## This is my Engineering Leader README
+## This is my README
 *Working with Scott? Here's what to expect!*
 
 Caveats:
@@ -8,7 +8,7 @@ Caveats:
 * This document also [isn't an attempt to build trust](https://medium.com/@skamille/i-hate-manager-readmes-20a0dd9a70d0). That happens as we work together.
 
 ## Who _are_ you?
-* [Small-town](https://cityofpage.org/) raised, lived-all-over, Millennial-leaning Gen-Xer who loves [music](https://x.com/search?lang=en&q=(%23mixtape)%20(from%3AtapH20guru)&src=typed_query), cooking, dad jokes, and technology.
+* [Small-town](https://cityofpage.org/) raised, lived-all-over, Millennial-leaning Gen-Xer (Xennial) who loves [music](https://x.com/search?lang=en&q=(%23mixtape)%20(from%3AtapH20guru)&src=typed_query), cooking, dad jokes, and technology.
 * I'm pretty much [down the middle blue/green](https://www.wearebowline.com/blog/8-personality-types-a-deeper-dive-into-insights-discovery/). (Supporting or Observing Coordinator)
 * I'm [ISTJ](https://www.truity.com/personality-type/ISTJ)-ish.
 
@@ -25,20 +25,3 @@ Caveats:
 * [If it matters enough to be careful, it matters enough to build a system around it.](https://seths.blog/2018/11/quality-and-effort/)
 * Don't be a Hero - [Problem Prevention > Problem Solving](https://twitter.com/shreyas/status/1218724150312751104) - Planning and [Pre-Mortems](https://hbr.org/2007/09/performing-a-project-premortem) rock!
 * Be Assertive - Not passive aggressive or plain old aggressive. Tact and open communication go a long way.
-
-## For those that work with to me profesionally...
-
-### My Job
-* Attract and retain world-class talent
-* Set context and priority
-* Remove blockers
-* Advocate for the team with the rest of the company
-* Be open to feedback
-* Get to know the folks on the team and learn how to communicate the best for each person
-* Help guide process to remove friction
-
-### 1:1s
-* We should talk regularly - once a week or once every other week.
-* You set the agenda. What would you like to talk about? What’s going well? What’s bugging you?
-* These don’t need to be status updates unless you really want to talk about project status.
-* I like [this](https://larahogan.me/blog/first-one-on-one-questions/) format for our first 1:1 as I get to know you.
