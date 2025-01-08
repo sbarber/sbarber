@@ -16,7 +16,7 @@ Caveats:
 * Pragmatist - What will work for our team right now? People > process. Real [agile](https://agilemanifesto.org/)
 * When it comes to human interaction, boring is bad. Emojis, gifs and cool project names are it.
 * When it comes to technology [boring](https://mcfunley.com/choose-boring-technology) [is](https://boringrails.com/) [good](http://boringtechnology.club/).
-* Don't be a Hero - [problem prevention > problem solving](https://twitter.com/shreyas/status/1218724150312751104) / planning and [pre-Mortems](https://hbr.org/2007/09/performing-a-project-premortem)
+* Don't be a hero - [problem prevention > problem solving](https://twitter.com/shreyas/status/1218724150312751104) / planning and [pre-Mortems](https://hbr.org/2007/09/performing-a-project-premortem)
 * Success really comes from consistantly [avoiding dumb mistakes rather than trying to be amazing](https://fs.blog/avoiding-stupidity/)
 * [Dig yourself (and others) a pit of success](https://blog.codinghorror.com/falling-into-the-pit-of-success/)
 * [If it matters enough to be careful, it matters enough to build a system around it.](https://seths.blog/2018/11/quality-and-effort/)
