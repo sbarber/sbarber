@@ -25,4 +25,4 @@ Caveats:
 * Process is good - When it's just enough to ease the pain and no more
 * Overcommunicate - [No going dark](https://blog.codinghorror.com/dont-go-dark/) - It's ok to say things more than once - Written communication helps solidify your thoughts (see: https://basecamp.com/guides/how-we-communicate #6 and #7).
 * Data - Let's establish some metrics and start collecting data. Keep data in front of you. How do we measure what we care about? "If you can't make engineering decisions based on data, then make engineering decisions that result in data." - Kent Beck
-* Be sssertive - not passive aggressive or plain old aggressive. Tact and open communication go a long way.
+* Be assertive - not passive aggressive or plain old aggressive. Tact and open communication go a long way.
