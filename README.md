@@ -10,7 +10,7 @@ Caveats:
 ## Who _are_ you?
 * [Small-town](https://cityofpage.org/) raised, lived-all-over, Millennial-leaning Gen-Xer (Xennial) who loves [music](https://x.com/search?lang=en&q=(%23mixtape)%20(from%3AtapH20guru)&src=typed_query), cooking, dad jokes, and technology.
 * I'm pretty much [down the middle blue/green](https://www.wearebowline.com/blog/8-personality-types-a-deeper-dive-into-insights-discovery/). (Supporting or Observing Coordinator)
-* I'm [ISTJ](https://www.truity.com/personality-type/ISTJ)-ish.
+* I'm [ISTP](https://www.truity.com/personality-type/ISTP)-ish.
 
 ## Guiding Principals, Things I Value
 * Pragmatist - What will work for our team right now? People > process. Real [agile](https://agilemanifesto.org/)
