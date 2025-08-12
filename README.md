@@ -12,7 +12,7 @@ Caveats:
 * I'm pretty much [down the middle blue/green](https://www.wearebowline.com/blog/8-personality-types-a-deeper-dive-into-insights-discovery/). (Supporting or Observing Coordinator)
 * I'm [ISTP](https://www.truity.com/personality-type/ISTP)-ish
 
-## Guiding Principals, Things I Value
+## Guiding Principles, Things I Value
 * Pragmatist - What will work for our team right now? People > process. Real [agile](https://agilemanifesto.org/)
 * When it comes to human interaction, boring is bad. Emojis, gifs and cool project names plz
 * When it comes to technology [boring](https://mcfunley.com/choose-boring-technology) [is](https://boringrails.com/) [good](http://boringtechnology.club/).
