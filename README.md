@@ -18,6 +18,7 @@ Caveats:
   * Fight [NIH Syndrome](https://en.wikipedia.org/wiki/Not_invented_here) - what existing tools/products can we use?
   * Use [YAGNI](https://martinfowler.com/bliki/Yagni.html) to help you simplify.
 * When it comes to technology [boring](https://mcfunley.com/choose-boring-technology) is [good](http://boringtechnology.club/). Create *cool things* with boring tech.
+  > The problem with “best tool for the job” thinking is that it takes a myopic view of the words “best” and “job.” Your job is keeping the company in business... and the “best” tool is the one that occupies the “least worst” position for as many of your problems as possible. - Dan McKinley
 * Optimize for [2-way doors over 1-way doors](https://medium.com/@nitindharny/one-way-two-way-door-decisions-a0e29029e200) Iterating is easier using 2-ways doors. Solutions for 1-way doors should generally be boring (see above).
 * A well-designed system makes it easy to do the right things and annoying (but not impossible) to do the wrong things. [Dig yourself (and others) a pit of success](https://blog.codinghorror.com/falling-into-the-pit-of-success/).
 * Data - How do we measure what we care about? "If you can't make engineering decisions based on data, then make engineering decisions that result in data." - Kent Beck
