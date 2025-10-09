@@ -29,7 +29,7 @@ Caveats:
 * [If it matters enough to be careful, it matters enough to build a system around it.](https://seths.blog/2018/11/quality-and-effort/)
 * Continuous improvement - Little by little let's make things better - small improvements are ok if it's consistant.
 ### Humans
-* When it comes to human interaction, *boring is bad*. Emojis, gifs and cool project names plz.
+* When it comes to human interaction, *boring is bad*. Emojis, gifs and cool project names plz. 😄
 * I'm a huge fan of having a [first team mindset](https://www.attack-gecko.net/2018/06/25/building-a-first-team-mindset/).
 * Be assertive - not passive aggressive or plain old aggressive. Tact and open communication go a long way.
 * Know the “why” of what we are working on. We can all pass the [elevator test](https://blog.codinghorror.com/can-your-team-pass-the-elevator-test/).
